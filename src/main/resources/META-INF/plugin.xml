@@ -1,0 +1,12 @@
+<idea-plugin url="https://nrwl.io/nx/plugins">
+    <name>nxStorm</name>
+    <description>Support for Nrwl Extensions for Angular</description>
+    <vendor>Nrwl</vendor>
+
+    <depends>JavaScript</depends>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+</idea-plugin>
